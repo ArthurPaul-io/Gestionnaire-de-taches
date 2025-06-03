@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Gestionnaire-de-taches-main",
+    "\\Gestionnaire-de-taches-main\\EasyTask",
+    "\\Gestionnaire-de-taches-main\\EasyTask\\Model",
+    "\\Gestionnaire-de-taches-main\\EasyTask\\Model\\Repository",
+    "\\Gestionnaire-de-taches-main\\EasyTask\\View",
+    "\\Gestionnaire-de-taches-main\\EasyTask\\ViewModel"
+  ],
+  "SelectedNode": "\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Client.Designer.cs",
+  "PreviewInSolutionExplorer": false
+}

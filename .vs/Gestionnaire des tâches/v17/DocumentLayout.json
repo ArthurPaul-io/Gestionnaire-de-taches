@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\Model\\Repository\\ProjetRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gestionnaire-de-taches-main\\EasyTask\\Model\\Repository\\ProjetRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Client.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Client.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\ViewModel\\TaskViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gestionnaire-de-taches-main\\EasyTask\\ViewModel\\TaskViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\ViewModel\\ProjetViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gestionnaire-de-taches-main\\EasyTask\\ViewModel\\ProjetViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Projet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Projet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\Model\\Projet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gestionnaire-de-taches-main\\EasyTask\\Model\\Projet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Task.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Task.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Projet.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Projet.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Projet.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Projet.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\Model\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gestionnaire-de-taches-main\\EasyTask\\Model\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Client.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Client.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Task.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Task.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\Model\\Task.cs",
+              "RelativeDocumentMoniker": "Gestionnaire-de-taches-main\\EasyTask\\Model\\Task.cs",
+              "ToolTip": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\Model\\Task.cs",
+              "RelativeToolTip": "Gestionnaire-de-taches-main\\EasyTask\\Model\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:56:14.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Projet.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\Model\\Projet.cs",
+              "RelativeDocumentMoniker": "Gestionnaire-de-taches-main\\EasyTask\\Model\\Projet.cs",
+              "ToolTip": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\Model\\Projet.cs",
+              "RelativeToolTip": "Gestionnaire-de-taches-main\\EasyTask\\Model\\Projet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:56:13.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjetViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\ViewModel\\ProjetViewModel.cs",
+              "RelativeDocumentMoniker": "Gestionnaire-de-taches-main\\EasyTask\\ViewModel\\ProjetViewModel.cs",
+              "ToolTip": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\ViewModel\\ProjetViewModel.cs",
+              "RelativeToolTip": "Gestionnaire-de-taches-main\\EasyTask\\ViewModel\\ProjetViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:55:08.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\ViewModel\\TaskViewModel.cs",
+              "RelativeDocumentMoniker": "Gestionnaire-de-taches-main\\EasyTask\\ViewModel\\TaskViewModel.cs",
+              "ToolTip": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\ViewModel\\TaskViewModel.cs",
+              "RelativeToolTip": "Gestionnaire-de-taches-main\\EasyTask\\ViewModel\\TaskViewModel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:55:04.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Frm_Projet.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Projet.cs",
+              "RelativeDocumentMoniker": "Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Projet.cs",
+              "ToolTip": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Projet.cs",
+              "RelativeToolTip": "Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Projet.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:27:08.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_Client.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Client.cs",
+              "RelativeDocumentMoniker": "Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Client.cs",
+              "ToolTip": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Client.cs",
+              "RelativeToolTip": "Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Client.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:26:21.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_Client.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Client.Designer.cs",
+              "RelativeDocumentMoniker": "Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Client.Designer.cs",
+              "ToolTip": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Client.Designer.cs",
+              "RelativeToolTip": "Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Client.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:55:34.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\Model\\Repository\\ProjetRepository.cs",
+              "RelativeDocumentMoniker": "Gestionnaire-de-taches-main\\EasyTask\\Model\\Repository\\ProjetRepository.cs",
+              "ToolTip": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\Model\\Repository\\ProjetRepository.cs",
+              "RelativeToolTip": "Gestionnaire-de-taches-main\\EasyTask\\Model\\Repository\\ProjetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:57:33.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Frm_Task.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Task.Designer.cs",
+              "RelativeDocumentMoniker": "Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Task.Designer.cs",
+              "ToolTip": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Task.Designer.cs",
+              "RelativeToolTip": "Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Task.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:56:27.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Frm_Task.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Task.cs",
+              "RelativeDocumentMoniker": "Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Task.cs",
+              "ToolTip": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Task.cs",
+              "RelativeToolTip": "Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Task.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:56:39.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Frm_Projet.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Projet.Designer.cs",
+              "RelativeDocumentMoniker": "Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Projet.Designer.cs",
+              "ToolTip": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Projet.Designer.cs",
+              "RelativeToolTip": "Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Projet.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:57:51.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Frm_Projet.resx",
+              "DocumentMoniker": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Projet.resx",
+              "RelativeDocumentMoniker": "Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Projet.resx",
+              "ToolTip": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Projet.resx",
+              "RelativeToolTip": "Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Projet.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-03T13:57:59.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Frm_Client.resx",
+              "DocumentMoniker": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Client.resx",
+              "RelativeDocumentMoniker": "Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Client.resx",
+              "ToolTip": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Client.resx",
+              "RelativeToolTip": "Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Client.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-02T12:27:08.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Frm_Task.resx",
+              "DocumentMoniker": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Task.resx",
+              "RelativeDocumentMoniker": "Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Task.resx",
+              "ToolTip": "C:\\Users\\arthu\\Documents\\Gestionnaire des t\u00E2ches\\Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Task.resx",
+              "RelativeToolTip": "Gestionnaire-de-taches-main\\EasyTask\\View\\Frm_Task.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-31T12:56:53.668Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
